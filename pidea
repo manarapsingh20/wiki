@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Shoes</title>
+    <link rel="stylesheet" href="style.css">  
+  </head>
+  <body>
+	<h1>Shoe Brands-Their ranking, and History</h1>
+  <hr>
+  <h2>Table of Contents:</h2>
+  <ul>
+    <li><a href="#nike">Nike History</a></li>
+    <li><a href="#nb">New Balance History</a></li>
+    <li><a href="#adidas">Adidas History</a></li>
+    <li><a href="#puma">Puma History</a></li>
+    <li><a href="#reebok">Reebok History</a></li>
+    <li><a href="#sbr">Shoe Brand Ranking</a></li>
+  </ul>
+  <hr>
+  <h2>History</h2>
+  <hr>
+  <h3 id="nike">Nike</h3>
+  <img alt="Nike Shoes" src= "images/jordans.webp" Width="200" Length="100">
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor mollis neque, egestas malesuada leo scelerisque vel. Praesent et velit arcu. Integer faucibus placerat ante, sit amet euismod ligula pellentesque a. Nam mollis erat id convallis ultrices. Nunc pulvinar justo felis, id faucibus turpis luctus non. Quisque sagittis ante et lectus ornare tempor. Phasellus a sapien sem. Praesent nec tortor libero. Integer consequat dictum velit, sed maximus quam lacinia hendrerit. Vivamus nec libero non augue dictum sagittis non et risus.</p>
+  <hr>
+  <h3 id="nb">New Balance</h3>
+  <img alt="New Balance Shoes" src= "images/newBalances.jpg" Width=200 Length="100">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor mollis neque, egestas malesuada leo scelerisque vel. Praesent et velit arcu. Integer faucibus placerat ante, sit amet euismod ligula pellentesque a. Nam mollis erat id convallis ultrices. Nunc pulvinar justo felis, id faucibus turpis luctus non. Quisque sagittis ante et lectus ornare tempor. Phasellus a sapien sem. Praesent nec tortor libero. Integer consequat dictum velit, sed maximus quam lacinia hendrerit. Vivamus nec libero non augue dictum sagittis non et risus.</p>
+  <hr>
+  <h3 id="adidas">Adidas</h3>
+  <img alt="Adidas Shoes" src= "images/adidas.jpg" Width=200 Length="100">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor mollis neque, egestas malesuada leo scelerisque vel. Praesent et velit arcu. Integer faucibus placerat ante, sit amet euismod ligula pellentesque a. Nam mollis erat id convallis ultrices. Nunc pulvinar justo felis, id faucibus turpis luctus non. Quisque sagittis ante et lectus ornare tempor. Phasellus a sapien sem. Praesent nec tortor libero. Integer consequat dictum velit, sed maximus quam lacinia hendrerit. Vivamus nec libero non augue dictum sagittis non et risus.</p>
+  <hr>
+  <h3 id="puma">Puma</h2>
+  <img alt="Puma Shoes" src= "images/pumaShoes.webp" Width=200 Length="25">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor mollis neque, egestas malesuada leo scelerisque vel. Praesent et velit arcu. Integer faucibus placerat ante, sit amet euismod ligula pellentesque a. Nam mollis erat id convallis ultrices. Nunc pulvinar justo felis, id faucibus turpis luctus non. Quisque sagittis ante et lectus ornare tempor. Phasellus a sapien sem. Praesent nec tortor libero. Integer consequat dictum velit, sed maximus quam lacinia hendrerit. Vivamus nec libero non augue dictum sagittis non et risus.</p>
+  
+  <hr>
+  <h3 id="reebok">Reebok</h3> 
+  <img alt="Reebok Shoes" src= "images/reeboks.jpg" Width=200 Length="25">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor mollis neque, egestas malesuada leo scelerisque vel. Praesent et velit arcu. Integer faucibus placerat ante, sit amet euismod ligula pellentesque a. Nam mollis erat id convallis ultrices. Nunc pulvinar justo felis, id faucibus turpis luctus non. Quisque sagittis ante et lectus ornare tempor. Phasellus a sapien sem. Praesent nec tortor libero. Integer consequat dictum velit, sed maximus quam lacinia hendrerit. Vivamus nec libero non augue dictum sagittis non et risus.</p>
+  <hr>
+  <h2 id="sbr">Shoe Brand Ranking</h2>
+  <ol>
+    <li>Nikes</li>
+    <li>New Balances</li>
+    <li>Adidas</li>
+    <li>Puma</li>
+    <li>Reebok</li>
+  </ol>
+  <hr>
+  <h2>Sources:</h2>
+  <ul><li></li></ul>
+
+  </body>
+</html>
