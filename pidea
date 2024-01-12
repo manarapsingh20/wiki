@@ -43,15 +43,17 @@
   <hr>
   <h2 id="sbr">Shoe Brand Ranking</h2>
   <ol>
-    <li>Nikes</li>
-    <li>New Balances</li>
-    <li>Adidas</li>
-    <li>Puma</li>
-    <li>Reebok</li>
+    <li><a href="https://www.nike.com/ca/"> Nikes</a></li>
+    <li><a href="https://www.newbalance.ca/" alt="New Balance Shoes">New Balances</a></li>
+    <li><a href="https://www.adidas.ca/en" alt="Adidas Shoes">Adidas</a></li>
+    <li><a href="https://us.puma.com/us/en">Puma</li>
+    <li><a href="https://reebok.ca/">Reebok</a></li>
   </ol>
   <hr>
   <h2>Sources:</h2>
   <ul><li></li></ul>
+  <hr>
+  <p> &copy; 2024 Manarap Singh Popli </p>
 
   </body>
 </html>
