@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Shoes</title>
+    <link rel="icon" type="image/x-icon" href="images/sneaker.png">
     <link rel="stylesheet" href="style.css">  
   </head>
   <body>
@@ -21,31 +22,34 @@
   <h2>History</h2>
   <hr>
   <h3 id="nike">Nike</h3>
-  <img alt="Nike Shoes" src= "images/jordans.webp" Width="200" Length="100">
+  <img alt="Nike Shoes" src= "images/jordans.webp" width="200" height="150">
+  <video width="320" height="240" controls>
+    <source src="videos/nikeHeadquarters.mp4" type="video/mp4">
+  </video>
 	<p>Nike, Inc., an <strong>American</strong> multinational corporation renowned for its extensive range of sports equipment, apparel, and notably footwear, began its journey in 1964 as <strong>Blue Ribbon Sports</strong>, founded by Bill Bowerman, a track-and-field coach, and Phil Knight, a student athlete at the <em>University of Oregon</em>, initially operating as a distributor for the Japanese shoemaker Onitsuka Tiger. Nike's philosophy of innovative design and endorsement by athletes quickly helped it gain prominence, with a pivotal moment in its history being the launch of the <strong><em>Nike Air technology</em></strong>in 1979, a technology that incorporated a flexible, yet durable air pocket into the sole of the shoe, designed to provide superior cushioning and support for athletes, setting a new standard in athletic shoe comfort and performance. <br><br>The introduction of the <strong>Air Jordan</strong> in 1984, created in collaboration with <strong>Michael Jordan</strong>, then a rising star in the NBA, reshaped the landscape of basketball footwear, as the sneaker was not only a technical achievement with its unique design and air sole cushioning but also became a symbol of style and culture, growing into a massive standalone label under Nike, with a range of products that extended beyond basketball shoes to include athletic and casual wear. Throughout the years, both Nike and the Jordan brand have been at the forefront of innovation in shoe technology and design, consistently pushing the boundaries, whether it be through the introduction of new materials, like <strong><em>Flyknit technology</em></strong>, or through smart collaborations with athletes, designers, and cultural icons, helping Nike maintain its position as one of the world's leading athletic footwear and apparel companies. <br><br>Nike's impact extends beyond the realm of sports, influencing fashion, culture, and lifestyle across the globe, with the brand's ability to blend performance with style making it a favorite among athletes, celebrities, and everyday consumers alike, and the story of Nike and the Air Jordan stands as a testament to the power of branding, innovation, and the enduring appeal of sports and sports icons.</p>
   <hr>
   <h3 id="nb">New Balance</h3>
-  <img alt="New Balance Shoes" src= "images/newBalances.jpg" Width=200 Length="100">
+  <img alt="New Balance Shoes" src= "images/newBalances.jpg" width="225" height="165">
   <p>New Balance, founded in 1906 as the <strong>"New Balance Arch Support Company"</strong> in <strong><em>Boston, Massachusetts</em></strong>, initially specialized in orthopedic products before venturing into athletic footwear in the 1960s with the "Trackster" running shoe. Renowned for quality and performance, New Balance has maintained manufacturing in the USA and UK, a key aspect of its brand identity. The brand gained prominence with the 320 running shoe in the 1970s, followed by models like the 990. As it expanded into various sports and apparel, New Balance also embraced social responsibility and sustainability. Today, it remains a privately held global powerhouse in athletic footwear, committed to quality, comfort, and craftsmanship, serving both professional athletes and everyday consumers.</p>
   <hr>
   <h3 id="adidas">Adidas</h3>
-  <img alt="Adidas Shoes" src= "images/adidas.jpg" Width=200 Length="100">
+  <img alt="Adidas Shoes" src= "images/adidas.jpg" width=225 height="125">
   <p>Adidas, founded in 1949 by <strong>Adolf Dassler</strong>, evolved from a small shoe factory in Germany to a global sports and fashion icon. Originating from the 1920s with Dassler's spiked running shoes, the brand gained fame at the 1936 Olympics with Jesse Owens. <strong><em>Post-WWII, Adidas and Puma emerged from the split of the Dassler brothers</em></strong>. Known for its three stripes, Adidas expanded from athletic shoes to sports apparel and equipment, becoming a soccer staple with its Copa Mundial boots in 1979. The 1980s saw Adidas enter the lifestyle sector, marked by its collaboration with Run-D.M.C. Innovations like the Torsion system and a focus on sustainability furthered its 21st-century evolution, cementing Adidas's legacy in sports, fashion, and popular culture.</p>
   <hr>
-  <h3 id="puma">Puma</h2>
-  <img alt="Puma Shoes" src= "images/pumaShoes.webp" Width=200 Length="25">
+  <h3 id="puma">Puma</h3>
+  <img alt="Puma Shoes" src= "images/pumaShoes.webp" width=200 height="225">
   <p>Founded in 1948 by <strong>Rudolf Dassler</strong>, Puma emerged from a family feud that also birthed its rival, Adidas. The brand gained fame with innovative <strong><em>football boots, highlighted by Pelé's choice in the 1958 World Cup</em>.</strong> Puma's Suede model, launched in 1968, became a cultural icon beyond sports. In the 1980s, Puma began athlete endorsements, signing stars like Diego Maradona. The brand later expanded into fashion, collaborating with top designers. Today, Puma is a major player in the sports lifestyle market, known for blending sports, fashion, and a commitment to innovation and sustainability.</p>  
   <hr>
   <h3 id="reebok">Reebok</h3> 
-  <img alt="Reebok Shoes" src= "images/reeboks.jpg" Width=200 Length="25">
+  <img alt="Reebok Shoes" src= "images/reeboks.jpg" width=200 height="225">
   <p>Reebok, <em>established in 1895 in England as <strong>J.W. Foster and Sons</strong></em>, gained early fame for creating spiked running shoes. Renamed Reebok in the 1950s, the brand soared in the 1980s with the aerobics craze, especially with the women's Reebok Freestyle. Expanding into diverse sports apparel and technology like the Pump series, Reebok formed key partnerships with major sports leagues and athletes. Acquired by Adidas in 2005, Reebok continued innovating in fitness and lifestyle, focusing on sustainability, and remains influential in athletic fashion and sportswear.</p>
   <hr>
   <h2 id="sbr">Shoe Brand Ranking</h2>
   <ol>
     <li><a href="https://www.nike.com/ca/"> Nikes</a></li>
-    <li><a href="https://www.newbalance.ca/" alt="New Balance Shoes">New Balances</a></li>
-    <li><a href="https://www.adidas.ca/en" alt="Adidas Shoes">Adidas</a></li>
-    <li><a href="https://us.puma.com/us/en">Puma</li>
+    <li><a href="https://www.newbalance.ca/">New Balances</a></li>
+    <li><a href="https://www.adidas.ca/en">Adidas</a></li>
+    <li><a href="https://us.puma.com/us/en">Puma</a></li>
     <li><a href="https://reebok.ca/">Reebok</a></li>
   </ol>
   <hr>
