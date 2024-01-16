@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>ShoeSite</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/x-icon" href="images/sneaker.ico">  
+    <link rel="icon" type="image/png" href="images/sneakers.png">  
   </head>
   <body style="background-color:rgb(213, 244, 250)">
 	<h1>Shoe Brands-Their History, and Ranking</h1>
@@ -17,6 +17,7 @@
     <li><a href="#puma">Puma History</a></li>
     <li><a href="#reebok">Reebok History</a></li>
     <li><a href="#sbr">Shoe Brand Ranking</a></li>
+    <li><a href="#s">Sources</a></li>
   </ul>
   <hr>
   <h2>History</h2>
@@ -48,7 +49,7 @@
   <hr>
   <h2 id="sbr">Shoe Brand Ranking (Personal Opinion)</h2>
   <ol>
-    <li><a href="https://www.nike.com/ca/"> Nikes</a></li>
+    <li><a href="https://www.nike.com/ca/"> Nikes &#9829;</a></li>
     <li><a href="https://www.newbalance.ca/">New Balances</a></li>
     <li><a href="https://www.adidas.ca/en">Adidas</a></li>
     <li><a href="https://us.puma.com/us/en">Puma</a></li>
@@ -59,7 +60,7 @@
     <source src="videos/nikeHeadquarters.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <h2>Sources:</h2>
+  <h2 id="s">Sources:</h2>
   <ul>
     <li><a href="https://www.sothebys.com/en/articles/the-meteoric-rise-of-the-jordan-brand"> Image: Nikes</a></li>
     <li><a href="https://www.vecteezy.com/video/1615989-aerial-drone-shot-oregon-nike-head-quarters-in-4k"> Video: Nike Headquarters</a></li> 
